@@ -21,11 +21,17 @@ When I'm not coding, you can usually find me reading, baking or singing. I also 
 
 ## Latest Projects
 
-🌳 [Peñalolén Chamber of Commerce](https://camilamoyac.github.io/wdd231/chamber/index.html)
+🥙 [Honest Kitchen](https://camilamoyac.github.io/wdd231/project/)
+
+A site in which you can find recipes that meet your nutritional needs, and upload your own recipes to your cookbook, where you can find the nutritional information for each plate.
+- **Date Finished**: April 2025
+- **Technologies Used**: HTML, CSS, JavaScript, Spoonacular API, JSON, localStorage
+
+🌳 [Peñalolén Chamber of Commerce](https://camilamoyac.github.io/wdd231/chamber/)
 
 A site created for the Peñalolén Chamber of Commerce to represent local businesses and provide resources for the community. 
-- **Date Finished**: Still working on it :)
-- **Technologies Used**: HTML, CSS, JavaScript, Weather API, JSON
+- **Date Finished**: April 2025
+- **Technologies Used**: HTML, CSS, JavaScript, OpenWeather API, JSON
 
 🎬 [Read Watch Rate](https://camilamoyac.github.io/wdd131/project/home)
 
@@ -41,5 +47,5 @@ A website for a rafting company offering interactive, responsive features, showc
 
 ---
 
-> "Destroying [code] is much easier than making it." 🌼  
+> "Destroying [codes] is much easier than making them." 🌼  
 > — **Suzanne Collins, *The Hunger Games***
