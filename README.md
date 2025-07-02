@@ -10,17 +10,24 @@ When I'm not coding, you can usually find me reading, baking or singing. I also 
 
 ## 🌱 Languages & technologies
 ![HTML](https://img.shields.io/badge/HTML-96b753?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-c6e686?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-c6e686?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-446418?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7d9b5d?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-bfc7a7?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-4f6137?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-96b753?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-c6e686?style=flat&logo=mongodb&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4f6137?style=flat&logo=.net&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-96b753?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-c6e686?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-446418?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## Latest Projects
+
+📖 [MoodReads](https://camilamoyac.github.io/wdd330/project/)
+
+A site in which you can find playlists to llisten to while you read a book according to it's mood.
+- **Date Finished**: June 2025
+- **Technologies Used**: HTML, CSS animations, JavaScript, GoogleBooks API, Emotion Analysis API, JSON, localStorage
 
 🥙 [Honest Kitchen](https://camilamoyac.github.io/wdd231/project/)
 
