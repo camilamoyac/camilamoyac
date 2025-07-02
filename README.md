@@ -16,6 +16,7 @@ When I'm not coding, you can usually find me reading, baking or singing. I also 
 ![C++](https://img.shields.io/badge/C%2B%2B-bfc7a7?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-4f6137?style=flat&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-96b753?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-c6e686?style=flat&logo=mongo&logoColor=white)
 
 ---
 
